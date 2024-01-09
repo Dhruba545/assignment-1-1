@@ -1,0 +1,697 @@
+body{
+    width:1600px;
+    margin:0px auto;
+}
+.div1{
+    width: 1320px;
+    height: 600px;
+    background-image: url(Banner-image.png);
+    margin:60px auto;
+    position: relative;
+    border-radius:15px;
+    }
+.div11{
+    width:632px;
+    height:246px;
+    margin:177px 344px;
+    position:absolute;
+
+     }
+.div111{
+   width: 259px;
+   height:40px;
+   padding:0px 186.5px 16px 186.5px;
+   text-align: center;
+   align-items: center;;
+   color:white;
+   font-size:32px;
+   font-weight: 400;
+   font-family: 'Merriweather'"
+
+}
+.div112{
+    width:632px;
+    height:246px;
+    margin-bottom:0px;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather';
+    line-height:96px;
+    align-items:center;
+    text-align: center;
+    color:white;
+
+    
+}
+.lig1{
+    width: 1320px;
+    height: 600px;
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius:15px;
+}
+/*complete the div1 part*/
+.div2{
+    background-color:white;
+    width:802.5px;
+    height: 806px;
+    margin:60px auto;
+
+}
+.div21{
+    width:383px;
+    height:107px;
+    background-color:white ;
+    padding:0px 209.75px 48px 209.75px;
+    font-size:88px;
+    font-weight:700;
+    font-family:'Inter';
+    text-align: center;
+    color:#F00;
+}
+.div22{
+    width:802.5px;
+    height:651px;
+    background-color:white;
+    margin-bottom: 0px;
+    background-image: url(New\ Year\ Photo.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+}
+.div221{
+   /* width:383px;*/
+    height:103px;
+    background-color:white;
+}
+.div2211{
+    width:410px;
+    height:29x;
+    background-color:white;
+    padding:0px 196.25px 0px 196.25px;
+
+    color:#F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight:500px;
+
+
+}
+.div2212{
+    width:410px;
+    height: 57px;
+    background-color: white;
+    padding:0px 196.25px 0px 196.25px;
+    text-align: center;
+    font-family: Inter;
+    font-size:48px;
+    font-weight: 700;
+    margin-top:16px
+}
+/* 2nd div complete *//*২য় টির কাজ সারা */
+.div3{
+    margin:60px auto;
+    width:1310px;
+    height: 600px;
+    background-image: url(Vectorrr.png);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+.lig3{
+    width:1310px;
+    height: 600px;
+    display:flex;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius:15px;
+
+}
+.div31{
+    width:850px;
+    height:600px;
+}
+.div32{
+    width:319.84px;
+    height:464.664px;
+    margin-top:68.11px ;
+    margin-right:  138px;
+    margin-bottom: 67.73px ;
+    background-image: url(Group\ 70.png);
+}
+.div311{
+    width:662px;
+    height:176px;
+    margin-top: 126px;
+    margin-left:126px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7.04px;
+
+}
+.div312{
+    width:697px;
+    height:60px;
+    margin-top: 24px;
+    margin-left: 126px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.div313{
+    width:103px;
+    height:24px;
+    margin-top: 48px;
+    margin-left: 158px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+button{
+    background-color:rgba(248, 248, 8, 0);
+    color:white;
+    border:0 solid red;
+}
+button:hover{
+    background-color: yellow;
+    color:blueviolet;
+}
+button:active{
+    background-color: rgb(225, 94, 94);
+}
+/*div3 uncomplete*/
+.div4{
+    margin:60px auto;
+    width: 1320px;
+    height: 482px;
+    background:linear-gradient( 180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius:15px;
+
+}
+.div41{
+    width: 549px;
+    height: 168px;
+    padding: 100px 386px 0px 385px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+
+}
+.div41 span{
+    color: rgb(7, 2, 17);
+}
+.div42{
+    width: 167px;
+    height: 56px;
+    margin:48px 577px 110px 576px;
+    background-color:rgb(255, 0, 0);
+    border-radius: 5px;
+    text-align:center;
+    position:relative;
+}
+.div421{
+    width: 103px;
+    height: 24px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: red;
+    position:absolute;
+    margin:16px 32px 16px 32px ;
+}
+/*start the 5th div*/
+.div5{
+    width: 1320px;
+    height: 463px;
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    margin:60px auto;
+
+}
+.div51{
+    width: 457px;
+    height: 463px;
+    background-color: rgba(255, 0, 0, 0.351);
+}
+.div52{
+    width:463px;
+    height: 463px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(Ellipse\ 1.png);
+    background-repeat: no-repeat;
+    background-position:49.08px 49.08px;
+    border-inline:20px solid rgb(251, 10, 10) ;
+    border-radius: 231.5px;
+    
+}
+.div53{
+    width: 400px;
+    height: 463px;
+    background-color: rgba(0, 255, 255, 0.44);
+}
+/*end of 5th div*/
+/*At least At least At least At least At least At least At least At least At least At least */
+.div6{
+    width: 1320px;     
+    height: 986.07px;
+    margin:60px auto;
+}
+.div61{
+    width:1080px;
+    height: 260px;
+    margin-top:0px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.div611{
+    width: 267px;
+    height: 29px;
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin:0px auto 0px auto;
+}
+.div612{
+     width:677px;
+     height: 91px;
+     margin:16px auto 0px auto;
+     color: rgb(7, 2, 17);
+     font-family: Merriweather;
+     font-size: 72px;
+     font-weight: 900;
+     text-align: center;
+
+}
+.div6 span{
+    color: rgb(255, 0, 0);
+}
+.div613{
+     width: 1068px;
+     height: 96px;
+     margin:28px 0px 0px 0px;
+     color: rgba(7, 2, 17, 0.60);
+     text-align: center;
+     font-family: Inter;
+     font-size: 20px;
+     font-weight: 500;
+     line-height: 32px;
+}
+.div62{
+    width: 1320px;
+    height: 662.07px;
+    margin-top:84px;
+    background-image:url(Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display:flex;
+    justify-content: space-between;
+}
+.div621{
+    width:429px;
+    height:433px;
+    background-image:url(Rectangle\ 1.png);
+    position: relative;
+
+}
+.div6211{
+    position: absolute;
+    margin-left:-150px;
+    top:64px;
+    width:270px;
+    height:270px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url(Group\ 44.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.div622{
+    width:674.82px;
+    height: 577.96px;
+    background-image: url(Group\ 75.png);
+    background-repeat: no-repeat;
+}
+/*Div 6 Complete ৫ বাদ রয়েছে*/
+.div7{
+     width: 1320px;
+     height: 1163px;
+     background-color: white;
+     margin: 60px auto;
+}
+.div71{
+    width:193px;
+    height: 29px;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 0px;
+
+}
+.div72{
+    width: 566px;
+    height: 60px;
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top:16px;
+    margin-left: 0px;
+
+}
+.div73{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 22px;
+    margin-left: 0px;
+}
+.div74{
+    width:1320px;
+    height: 450px;
+    display:flex;
+    justify-content: space-between;
+    margin-top:48px;
+    margin-left: 0px;
+}
+.div741{
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 5.png);
+    font-size: 0px;
+    
+}
+.div741:hover{
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+.div742{    
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 3.png);
+    font-size: 0px;
+}
+.div742:hover{
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+.div743{
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 4.png);
+    font-size: 0px;
+}
+.div743:hover{
+    
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+.div75{
+    width:1320px;
+    height: 450px;
+    display:flex;
+    justify-content: space-between;
+    margin-top:29px;
+    margin-left: 0px;
+}
+.div751{
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 7.png);
+    font-size: 0px;
+}
+.div751:hover{
+    
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+.div752{    
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 6.png);
+    font-size: 0px;
+}
+.div752:hover{
+    
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+.div753{
+    width:424px;
+    height: 450px;
+    background-image: url(Rectangle\ 8.png);
+    font-size: 0px;
+}
+.div753:hover{
+
+    color: rgba(255, 0, 0, 0.233);
+    border:5px solid blue;
+    background-color: rgba(0, 0, 255, 0.626);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 900;
+    align-items: center;
+}
+/*7th div complete but ৫ বাদ রয়েছে*/
+.div8{
+    width: 1320px;
+    height: 616px;
+    margin:60px auto;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 15px;
+}
+.div81{
+    width: 896px;
+    height: 336px;
+    padding:80px 212px 0px 212px ;
+    border-radius: 15px;
+}
+.div82{
+    width: 648px;
+    height: 72px;;
+    margin:48px auto 200px auto;
+    display: flex;
+}
+.div811{
+    width: 150px;
+    height: 150px;
+    background-image: url(Group\ 61.png);
+    background-repeat: no-repeat;
+    bottom:80px;
+    margin:0px 373px 0px 373px;
+}
+.div812{
+    width:512px; 
+    height:60px;
+    margin:40px 192px 0px 192px;color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.div813{
+    width: 896px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+}
+.div821{
+    width:430px;
+    height: 72px;
+    border-radius: 50px 0px 0px 50px;
+    background-color: white;
+    border: none;
+    text-align: center;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.div822{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+}
+.div8221{
+    width: 98px;
+    height: 24px;
+    margin: 24px 56px 24px 56px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* div 8 complete but ৫ম ডিভ বাদ রয়েছে */
+.div9{
+    background-color: rgba(7, 2, 17, 1);
+    width: 1600px;
+    height: 609px;
+    margin:60px auto 0px auto;
+    border-radius: 0px 0px 15px 15px;
+}
+.div9m{
+    width: 1185px; 
+    height: 1px;
+    background-color: black;
+}
+.div91{
+    width: 1185px;
+    height: 80px;
+    margin: 120px 275px 0px 140px;
+    display:flex;
+    justify-content: space-between;
+
+}
+.div911{
+    width:375px;
+    height: 80px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.div912{
+    width:251px;
+    height: 80px;
+
+}
+.div9121{
+    width:276 px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 40px; 
+    background-image: url(Call.png);
+    background-repeat: no-repeat;
+    background-position: 0px 13px;
+    text-align: center;
+}
+.div9122{
+    width: 276px;
+    height: 40px;
+    text-align: center;
+    background-image: url(Website.png);
+    background-repeat: no-repeat;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px; 
+    background-position: 0px 13px;
+}
+hr{
+    width: 1320px;
+    height: 0px;
+    border: 1px solid  rgba(255, 255, 255, 0.15);
+    margin-top: 50px;
+}
+.div92{
+    width:328px;
+    height: 64px;
+    display: flex;
+    justify-content: space-between; 
+    margin: 48px 632px 0px 640px;
+
+}
+.div921{
+    width: 64px;
+    height: 64px;
+    background-image: url(Facebook.png);
+}
+.div922{
+    width: 64px;
+    height: 64px;
+    background-image: url(Instagram.png);
+}.div923{
+    width: 64px;
+    height: 64px;
+    background-image: url(Linkedin.png);
+}.div924{
+    width: 64px;
+    height: 64px;
+    background-image: url(Twitter.png);
+}
+.div93{
+    width: 1160px;
+    height: 29px;
+    margin:50px auto 0px auto;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.div931{
+    width:300px;
+    height: 29px;
+}
+.div932{
+    width: 200px;
+    height: 29px;
+
+}
+/*div 9th complete*/
